@@ -31,11 +31,11 @@ public class Post implements Serializable{
 		this.author = author;
 	}
 
-	public String getIs() {
+	public String getId() {
 		return id;
 	}
 
-	public void setIs(String id) {
+	public void setId(String id) {
 		this.id = id;
 	}
 
